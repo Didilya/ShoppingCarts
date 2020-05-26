@@ -23,7 +23,7 @@ Clone this repository and open [ShoppingCarts.sln] with Visual Studio.
   <img src="https://github.com/Didilya/ShoppingCarts/blob/master/Screenshots/CartPageEmpty.png" width="150" height="300" alt="CartPageEmpty">
   <img src="https://github.com/Didilya/ShoppingCarts/blob/master/Screenshots/CartPage.png" width="150" height="300" alt="CartPage">
   <img src="https://github.com/Didilya/ShoppingCarts/blob/master/Screenshots/ItemDetail.png" width="150" height="300" alt="ItemDetail">
-  <img src="https://github.com/Didilya/ShoppingCarts/blob/master/Screenshots/ItemDetailCustomizationce.png" width="150"       height="300" alt="RESTWebService">
+  <img src="https://github.com/Didilya/ShoppingCarts/blob/master/Screenshots/ItemDetailCustomization.png" width="150" height="300" alt="ItemDetailCustomizationce">
   <img src="https://github.com/Didilya/ShoppingCarts/blob/master/Screenshots/SQLiteDatabase.png" width="150" height="300" alt="SQLiteDatabase">  
   <img src="https://github.com/Didilya/ShoppingCarts/blob/master/Screenshots/ItemGallery.png" width="150" height="300" alt="ItemGallery">  
   <img src="https://github.com/Didilya/ShoppingCarts/blob/master/Screenshots/ChatPage.png" width="150" height="300" alt="ChatPage">  
