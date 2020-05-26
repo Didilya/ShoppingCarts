@@ -18,7 +18,7 @@ Clone this repository and open [ShoppingCarts.sln] with Visual Studio.
 
 ## Screenshots
 <p>
-  <img src="https://github.com/Didilya/ShoppingCarts.git/Screenshots/SideMenu.png" width="150" height="300" alt="SideMenu">
+  <img src="https://github.com/Didilya/ShoppingCarts/blob/master/Screenshots/SideMenu.png" width="150" height="300" alt="SideMenu">
   <img src="https://github.com/Didilya/ShoppingCarts.git/Screenshots/ItemList.png" width="150" height="300" alt="ItemList">
   <img src="https://github.com/Didilya/ShoppingCarts.git/Screenshots/CartPageEmpty.png" width="150" height="300" alt="CartPageEmpty">
   <img src="https://github.com/Didilya/ShoppingCarts.git/Screenshots/CartPage.png" width="150" height="300" alt="CartPage">
