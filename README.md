@@ -1,5 +1,5 @@
-# Xamarin-Forms-Shopping-Cart
-Xamarin forms shopping cart by replacing toolbar item.
+# ShoppingApp
+Xamarin forms shopping app with MasterDetailPage
 ---------
 
 
